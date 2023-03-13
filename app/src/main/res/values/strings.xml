@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Duas Telas</string>
+    <string name="titulo_tela02">Segunda Tela</string>
+    <string name="titulo_tela01">Primeira Tela</string>
+    <string name="T1_btn_chamar_tela02">Ir Segunda Tela</string>
+    <string name="T2btn_volta_tela01">Voltar Tela 01</string>
+    <string name="T1_domingo">Domingo ela vai?</string>
+</resources>
